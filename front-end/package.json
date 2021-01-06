@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "activecampaign": "^1.2.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chargebee": "^2.5.7",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
